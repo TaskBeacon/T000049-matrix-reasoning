@@ -1,0 +1,124 @@
+[
+    {
+        "id":  "W2981704638",
+        "title":  "The matrix reasoning item bank (MaRs-IB): novel, open-access abstract reasoning items for adolescents and adults",
+        "authors":  [
+                        "Gabriele Chierchia",
+                        "Delia Fuhrmann",
+                        "Lisa J. Knoll",
+                        "Blanca Piera Pi‐Sunyer",
+                        "Ashok Sakhardande",
+                        "Sarah‐Jayne Blakemore"
+                    ],
+        "year":  2019,
+        "journal":  "Royal Society Open Science",
+        "doi_or_url":  "https://doi.org/10.1098/rsos.190232",
+        "citation_count":  111,
+        "is_high_impact":  false,
+        "open_access":  true,
+        "used_for":  [
+                         "task_workflow",
+                         "timing_parameters"
+                     ],
+        "parameter_bindings":  {
+
+                               },
+        "notes":  ""
+    },
+    {
+        "id":  "W2167749256",
+        "title":  "Variation in Raven\u0027s Progressive Matrices scores across time and place",
+        "authors":  [
+                        "Symen A. Brouwers",
+                        "Fons J. R. van de Vijver",
+                        "D.A. van Hemert"
+                    ],
+        "year":  2008,
+        "journal":  "Learning and Individual Differences",
+        "doi_or_url":  "https://doi.org/10.1016/j.lindif.2008.10.006",
+        "citation_count":  113,
+        "is_high_impact":  false,
+        "open_access":  true,
+        "used_for":  [
+                         "task_workflow",
+                         "timing_parameters"
+                     ],
+        "parameter_bindings":  {
+
+                               },
+        "notes":  ""
+    },
+    {
+        "id":  "W2088055785",
+        "title":  "Fractionating Human Intelligence",
+        "authors":  [
+                        "Adam Hampshire",
+                        "Roger Highfield",
+                        "Beth Parkin",
+                        "Adrian M. Owen"
+                    ],
+        "year":  2012,
+        "journal":  "Neuron",
+        "doi_or_url":  "https://doi.org/10.1016/j.neuron.2012.06.022",
+        "citation_count":  419,
+        "is_high_impact":  true,
+        "open_access":  true,
+        "used_for":  [
+                         "task_workflow",
+                         "timing_parameters"
+                     ],
+        "parameter_bindings":  {
+
+                               },
+        "notes":  ""
+    },
+    {
+        "id":  "W2158211182",
+        "title":  "Analogical Reasoning and Prefrontal Cortex: Evidence for Separable Retrieval and Integration Mechanisms",
+        "authors":  [
+                        "S.A. Bunge"
+                    ],
+        "year":  2004,
+        "journal":  "Cerebral Cortex",
+        "doi_or_url":  "https://doi.org/10.1093/cercor/bhh126",
+        "citation_count":  358,
+        "is_high_impact":  true,
+        "open_access":  true,
+        "used_for":  [
+                         "task_workflow",
+                         "timing_parameters"
+                     ],
+        "parameter_bindings":  {
+
+                               },
+        "notes":  ""
+    },
+    {
+        "id":  "W2110233084",
+        "title":  "Executive function and fluid intelligence after frontal lobe lesions",
+        "authors":  [
+                        "María Roca",
+                        "Alice Parr",
+                        "Russell Thompson",
+                        "Alexandra Woolgar",
+                        "Teresa Torralva",
+                        "Nagui M. Antoun",
+                        "Facundo Manes",
+                        "John S. Duncan"
+                    ],
+        "year":  2009,
+        "journal":  "Brain",
+        "doi_or_url":  "https://doi.org/10.1093/brain/awp269",
+        "citation_count":  313,
+        "is_high_impact":  true,
+        "open_access":  true,
+        "used_for":  [
+                         "task_workflow",
+                         "timing_parameters"
+                     ],
+        "parameter_bindings":  {
+
+                               },
+        "notes":  ""
+    }
+]
